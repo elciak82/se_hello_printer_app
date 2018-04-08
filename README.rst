@@ -91,4 +91,4 @@ Materiały
 
 //z statuscake kopiujemy UPTIME BUTTON:
 
-<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=UUvK4fGPVu&Days=1&Design=1" /></a>
