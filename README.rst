@@ -82,7 +82,13 @@ Materiały
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
 
-//z travisa
+//z travisa kopiujemy (RST):
 
 .. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/elciak82/se_hello_printer_app
+
+//znajdziemy to: travis.ci, szukamy naszego projektu, klik w zielono-czarny guziczek, wybieramy z listy RST i kopiujemy
+
+//z statuscake kopiujemy UPTIME BUTTON:
+
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?
