@@ -44,7 +44,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # mozna to zrobic na etapie zakładania konta na travis.ci
   # ustawienia: zaznaczyć projekt, który nas intetesuje
 
-*** BUTTON ***
+- BUTTON 
   # z travisa kopiujemy (RST):
   # znajdziemy to: travis.ci, szukamy naszego projektu, klik w buton, wybieramy z listy RST i kopiujemy:
 
