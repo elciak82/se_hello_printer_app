@@ -6,10 +6,11 @@ python:
 install:
   - make deps
 script:
-  - make test
+  #- make test #zastapione przez mate test_xunit
   - make lint
   - make docker_build
   - make docker_push
+  - make test_xunit #zamiast make test
 deploy:
   provider: heroku
   app: salty-wildwood-30209 #nazwa z heroku
