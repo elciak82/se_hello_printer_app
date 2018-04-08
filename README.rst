@@ -44,12 +44,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # mozna to zrobic na etapie zakładania konta na travis.ci
   # ustawienia: zaznaczyć projekt, który nas intetesuje
 
-BUTTON:
-    z travisa kopiujemy (RST):
-    znajdziemy to: travis.ci, szukamy naszego projektu, klik w buton, wybieramy z listy RST i kopiujemy
-
 .. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/elciak82/se_hello_printer_app
+
+
+  BUTTON:
+      z travisa kopiujemy (RST):
+      znajdziemy to: travis.ci, szukamy naszego projektu, klik w buton, wybieramy z listy RST i kopiujemy
 
   # zwiany wrzucic na githuba
   # powinien pojawić sie button (analogiczny jak w travis.ci)
