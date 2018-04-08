@@ -40,7 +40,11 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
 
-  ::
+//z travisa kopiujemy (RST):
+//znajdziemy to: travis.ci, szukamy naszego projektu, klik w zielono-czarny guziczek, wybieramy z listy RST i kopiujemy
+
+.. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
+    :target: https://travis-ci.org/elciak82/se_hello_printer_app
 
     ...
 
@@ -82,13 +86,11 @@ Materiały
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
 
-//z travisa kopiujemy (RST):
-
-.. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
-    :target: https://travis-ci.org/elciak82/se_hello_printer_app
-
-//znajdziemy to: travis.ci, szukamy naszego projektu, klik w zielono-czarny guziczek, wybieramy z listy RST i kopiujemy
+Integracja z statuscake:
 
 //z statuscake kopiujemy UPTIME BUTTON:
 
 <a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=UUvK4fGPVu&Days=1&Design=1" /></a>
+=To co powyżej przerabiamy na RST:
+.. image:: https://app.statuscake.com/button/index.php?Track=UUvK4fGPVu&Days=1&Design=1
+    :target: https://www.statuscake.com
