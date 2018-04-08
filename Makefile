@@ -13,9 +13,12 @@ lint:
 
 test:
 	PYTHONPATH=. py.test
-		- test_cov #generacja coverage
-		- test_xunit #generacja xunit i coverage
 
+test_cov:	 #generacja coverage
+		PYTHONPATH=. py.test --verbose -s --cov=.
+
+test_xunit: #generacja xunit i coverage
+		PYTHONPATH=. py.test -s --cov=.  --junit-xml=test_results.xml
 
 run:
 	python main.py
