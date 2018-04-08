@@ -13,7 +13,11 @@ lint:
 
 test:
 	PYTHONPATH=. py.test
-	PYTHONPATH=. py.test  --verbose -s
+	PYTHONPATH=. py.test  --verbose -s --cov=.  --junit-xml=test_result.xml
+	PYTHONPATH=. py.test  -s --cov=.  --junit-xml=test_result.xml
+	test_cov #generacja coverage
+	test_xunit #generacja xunit i coverage
+
 
 run:
 	python main.py

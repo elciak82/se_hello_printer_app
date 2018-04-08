@@ -39,12 +39,20 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 
 - Integracja z TravisCI:
+  # Załozyc konto na travis.ci
+  # połaczyć z githubem
+  # mozna to zrobic na etapie zakładania konta na travis.ci
+  # ustawienia: zaznaczyć projekt, który nas intetesuje
 
-//z travisa kopiujemy (RST):
-//znajdziemy to: travis.ci, szukamy naszego projektu, klik w zielono-czarny guziczek, wybieramy z listy RST i kopiujemy
+*** BUTTON ***
+  # z travisa kopiujemy (RST):
+  # znajdziemy to: travis.ci, szukamy naszego projektu, klik w buton, wybieramy z listy RST i kopiujemy:
 
 .. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/elciak82/se_hello_printer_app
+
+  # zwiany wrzucic na githuba
+  # powinien pojawić sie button (analogiczny jak w travis.ci)
 
 Pomocnicze
 ==========
@@ -92,3 +100,6 @@ To co powyżej przerabiamy na RST:
 
 .. image:: https://app.statuscake.com/button/index.php?Track=UUvK4fGPVu&Days=1&Design=1
     :target: https://www.statuscake.com
+
+
+Dodać diagram w folderze docks ?? :D
