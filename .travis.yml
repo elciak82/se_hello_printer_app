@@ -11,6 +11,6 @@ script:
   - make docker_build
   - make docker_push
 deploy:
-provider: heroku
-app: salty-wildwood-30209 #nazwa z heroku
-api_key: ${HEROKU_API_KEY} #zmienna srodowiskowa
+  provider: heroku
+  app: salty-wildwood-30209 #nazwa z heroku
+  api_key: ${HEROKU_API_KEY} #zmienna srodowiskowa
