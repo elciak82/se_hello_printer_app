@@ -13,8 +13,8 @@ lint:
 
 test:
 	PYTHONPATH=. py.test
-		test_cov #generacja coverage
-		test_xunit #generacja xunit i coverage
+		- test_cov #generacja coverage
+		- test_xunit #generacja xunit i coverage
 
 
 run:
