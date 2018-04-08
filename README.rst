@@ -44,8 +44,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   # mozna to zrobic na etapie zakładania konta na travis.ci
   # ustawienia: zaznaczyć projekt, który nas intetesuje
 
-.. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
-    :target: https://travis-ci.org/elciak82/se_hello_printer_app
+  .. image:: https://travis-ci.org/elciak82/se_hello_printer_app.svg?branch=master
+      :target: https://travis-ci.org/elciak82/se_hello_printer_app
 
 
   BUTTON:
